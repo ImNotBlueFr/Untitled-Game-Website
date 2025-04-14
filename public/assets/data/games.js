@@ -104,6 +104,12 @@ var games = [
   title: 'Volley Random',
   url: 'https://notagaemsite.github.io/games/volleyrandom.html',
   image: 'https://notagaemsite.github.io/images/gameicons/volleyrandom.png'
+  },
+     {
+  id: 'infinitecraft',
+  title: 'Infinite Craft',
+  url: 'https://infinite-craft.org/infinite-craft/',
+  image: 'https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/taylor-swift-in-infinite-craft.jpg'
   }
 ]
 games.sort(function (a, b) {
