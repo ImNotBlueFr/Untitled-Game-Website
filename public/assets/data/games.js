@@ -209,7 +209,7 @@ var games = [
   {
     id: 'run2',
     title: 'Run 2',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/Run%202/index.html',
+    url: 'https://cdn.primarygames.com/ruffle_noTouchSupport/run2/',
     image: 'https://i.pinimg.com/280x280_RS/b6/2f/e8/b62fe8c6a9ceb9fd7e5257ad25f6897d.jpg',
     description: 'Run 2 is a classic game where you swerve through space in a race to the finish. Play hundreds of new levels in this fast-paced platformer'
   },
@@ -545,6 +545,13 @@ var games = [
   title: 'House Of Hazards',
   url: 'https://kdata1.com/2020/10/House_of_Hazards/',
   image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=1200,height=1200,fit=cover,f=png/0609b0ba2889859b21cf47ca205818fe.png'
+  },
+
+  {
+  id: 'nealfun',
+  title: 'Neal.Fun',
+  url: 'https://neal.fun',
+  image: 'https://img.utdstc.com/icon/481/deb/481debbf466dfb5a780726cfa7a4283b07ce37ee4841e87d9df04be953efba35:200'
   }
 ]
 games.sort(function (a, b) {
