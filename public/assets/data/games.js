@@ -539,6 +539,12 @@ var games = [
     title: 'Raccoon Retail',
     url: 'https://www.coolmathgames.com/0-raccoon-retail/play',
     image: 'https://play-lh.googleusercontent.com/zI8P-Gej0l8WK9_rRrVJuHQfZqA97ncD1RCN8qdLbmwl0uxPI8o5JLBsnJz5hxLKTYE'
+  },
+  {
+  id: 'houseofhazards',
+  title: 'House Of Hazards',
+  url: 'https://kdata1.com/2020/10/House_of_Hazards/',
+  image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=1200,height=1200,fit=cover,f=png/0609b0ba2889859b21cf47ca205818fe.png'
   }
 ]
 games.sort(function (a, b) {
