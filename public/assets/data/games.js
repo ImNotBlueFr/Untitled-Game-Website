@@ -86,6 +86,24 @@ var games = [
   title: 'Basket Random',
   url: 'https://notagaemsite.github.io/games/basketrandom.html',
   image: 'https://notagaemsite.github.io/images/gameicons/basketrandom.png'
+  },
+      {
+  id: 'boxingrandom',
+  title: 'Boxing Random',
+  url: 'https://notagaemsite.github.io/games/boxingrandom.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/boxingrandom.png'
+  },
+   {
+  id: 'soccerrandom',
+  title: 'Soccer Random',
+  url: 'https://notagaemsite.github.io/games/soccerrandom.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/soccerrandom.png'
+  },
+   {
+  id: 'volleyrandom',
+  title: 'Volley Random',
+  url: 'https://notagaemsite.github.io/games/volleyrandom.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/volleyrandom.png'
   }
 ]
 games.sort(function (a, b) {
