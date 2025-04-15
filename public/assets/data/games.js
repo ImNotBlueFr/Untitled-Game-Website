@@ -177,12 +177,6 @@ var games = [
   url: 'https://app-polytrack.kodub.com/0.5.0/?',
   image: 'https://images.twoplayergames.org/files/games/other/poly-track.jpg?auto=format&w=100'
   },
-    {
-  id: 'henrystickmanescapingtheprision',
-  title: 'Henry Stickman, Escaping the Prision',
-  url: 'https://app-polytrack.kodub.com/0.5.0/?',
-  image: 'https://www.twoplayergames.org/gameframe/escaping-the-prison'
-  },
    {
   id: 'destorythestickman',
   title: 'Destroy the Stickman',
