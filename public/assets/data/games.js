@@ -117,6 +117,12 @@ var games = [
   url: 'https://slope-game.github.io/new5923/tomb/',
   image: 'https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO=w240-h480-rw'
   },
+      {
+  id: 'pacman',
+  title: 'Pac-Man',
+  url: 'https://www.retrogames.cc/embed/9406-pac-man-midway-1.html',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBsd5KR0IgKULgvVX5TruqpG_gZjT2SLPGg&s'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
