@@ -195,6 +195,24 @@ var games = [
   url: '//html5.gamedistribution.com/rvvASMiM/95c4932d8f6d42688b0fa38274282a86/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fflip-bottle&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50d29wbGF5ZXJnYW1lcy5vcmcvZ2FtZS9mbGlwLWJvdHRsZSIsInBhcmVudERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsInRvcERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D',
   image: 'https://images.twoplayergames.org/files/games/other/Flip_Bottle.jpg?auto=format&w=100'
   },
+     {
+  id: 'pacman',
+  title: 'Pac-Man',
+  url: 'https://notagaemsite.github.io/games/pacman.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/pacman.png'
+  },
+     {
+  id: 'mspacman',
+  title: 'Ms. Pac-Man',
+  url: 'https://notagaemsite.github.io/games/mspacman.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/mspacman.png'
+  },
+     {
+  id: 'jrpacman',
+  title: 'Jr. Pac-Man',
+  url: 'https://notagaemsite.github.io/games/jrpacman.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/jrpacman.png'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
