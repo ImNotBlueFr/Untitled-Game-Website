@@ -110,7 +110,13 @@ var games = [
   title: 'Infinite Craft',
   url: 'https://infinite-craft.org/infinite-craft/',
   image: 'https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/taylor-swift-in-infinite-craft.jpg'
-  }
+  },
+    {
+  id: 'tombofthemask',
+  title: 'Tomb of the Mask',
+  url: 'https://slope-game.github.io/new5923/tomb/',
+  image: 'https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO=w240-h480-rw'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
