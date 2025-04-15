@@ -213,6 +213,48 @@ var games = [
   url: 'https://notagaemsite.github.io/games/jrpacman.html',
   image: 'https://notagaemsite.github.io/images/gameicons/jrpacman.png'
   },
+     {
+  id: 'multitaskair',
+  title: 'Multi Task Air',
+  url: 'https://www.coolmathgames.com/0-multitask-air/play',
+  image: 'https://img.itch.zone/aW1nLzc3MzU4NjUucG5n/original/v9dS7G.png'
+  },
+       {
+  id: 'rooftopsnipers2',
+  title: 'Rooftop Snipers 2',
+  url: 'https://htmlxm.github.io/h6/rooftop-snipers-2/',
+  image: 'https://scrap-metal.github.io/imgs/rooftop-snipers.png'
+  },
+  {
+  id: 'subwaysurfers',
+  title: 'Subway Surfers',
+  url: 'https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210324/jj01/index.html',
+  image: 'https://e.snmc.io/lk/lv/x/bb7812e01a96321231f2c33973b99489/5282921'
+  },
+   {
+  id: 'redball4',
+  title: 'Red Ball 4',
+  url: 'https://app-263344.games.s3.yandex.net/263344/9bm4zkcbrxobzrcqdnk5ptiq688v0ce1/index.html?clid=4446395&k50id=%7C&gad_source=1&gclid=Cj0KCQjwh_i_BhCzARIsANimeoGUsQ-XpHPbMrk1vaojEoTP6O7CDWmsZiLfeD7HHDUcJJQekU-GjccaApLvEALw_wcB&sdk=%2Fsdk%2F_%2Fv2.acfb98815060968fa439.js#origin=https%3A%2F%2Fplayhop.com&app-id=263344&device-type=desktop',
+  image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/9b739087f9938fb143a2519252addbb8.png'
+  },
+    {
+  id: 'lebronsimulator2024',
+  title: 'LEBRON SIMULATOR 2024!!!!!!!',
+  url: 'https://games.construct.net/61549/latest',
+  image: 'https://tse1.mm.bing.net/th?id=OIP.6PsDllFnMAItPVRiSKYmBgHaFY&pid=Api&P=0&h=220'
+  },
+    {
+  id: 'bigflappytowertinysquare',
+  title: 'Big Flappy Tower Tiny Square',
+  url: 'https://www.coolmathgames.com/0-big-flappy-tower-tiny-square/play',
+  image: 'data:image/jpeg;base64,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'
+  },
+      {
+  id: 'templerun2',
+  title: 'Temple Run 2',
+  url: 'https://games.engineering.com/temple-run-2/index.html',
+  image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/b5c8b617f65be7cc4d56dd3657590ae7.png'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
