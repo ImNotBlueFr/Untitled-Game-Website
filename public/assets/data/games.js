@@ -141,6 +141,24 @@ var games = [
   url: 'https://notagaemsite.github.io/games/driftboss.html',
   image: 'https://notagaemsite.github.io/images/gameicons/driftboss.png'
   },
+    {
+  id: 'yohohoio',
+  title: 'YoHoHo.io',
+  url: 'https://yohoho.io',
+  image: 'https://img02.symbaloo.com/TKhg62XFE5bNO3g03Y2IWQfbBYE=/0x0:162x162/fit-in/162x162/filters:no_upscale()/smarkImages%2Fv1%2F72%2F8d%2F9420fd806867cb950c474427c77ee85397e668423d8ac254d2fa4d0e7b40.png'
+  },
+   {
+  id: 'paperio',
+  title: 'paper.io',
+  url: 'https://paperio.site',
+  image: 'https://play-lh.googleusercontent.com/SWTpYqsX9RN2YirCDnAjQ8qsbgn4UrHkRRGsjwuASnHMVqssIvWKzq82mP82y_ffBSE'
+  },
+    {
+  id: '!!request',
+  title: '*Request a Game*',
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSe0UszBXPPr7I1k6zDHA85AcedbTyDF_v2u7Ui-4Yk6pMcyGg/viewform?usp=header',
+  image: 'https://files.catbox.moe/vulf7v.png'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
