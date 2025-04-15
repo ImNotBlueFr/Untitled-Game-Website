@@ -75,12 +75,6 @@ var games = [
   url: 'https://kdata1.com/2020/10/House_of_Hazards/',
   image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=1200,height=1200,fit=cover,f=png/0609b0ba2889859b21cf47ca205818fe.png'
   },
-  {
-  id: 'nealfun',
-  title: 'Neal.Fun',
-  url: 'https://neal.fun',
-  image: 'https://img.utdstc.com/icon/481/deb/481debbf466dfb5a780726cfa7a4283b07ce37ee4841e87d9df04be953efba35:200'
-  },
     {
   id: 'basketrandom',
   title: 'Basket Random',
@@ -158,6 +152,54 @@ var games = [
   title: '*Request a Game*',
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSe0UszBXPPr7I1k6zDHA85AcedbTyDF_v2u7Ui-4Yk6pMcyGg/viewform?usp=header',
   image: 'https://files.catbox.moe/vulf7v.png'
+  },
+{
+  id: 'rooftopsnipers',
+  title: 'Rooftop Snipers',
+  url: 'https://rooftop-snipers.github.io/file/',
+  image: 'https://geometrydashsubzero.net/data/image/game/rooftop-snipers.png'
+  },
+  {
+  id: 'getontop',
+  title: 'Get on Top',
+  url: 'https://files.twoplayergames.org/files/games/o4/Get_on_Top/index.html',
+  image: 'https://images.twoplayergames.org/files/games/o4/Get_on_Top/Get_on_Top.jpg?auto=format&w=100'
+  },
+    {
+  id: 'gswitch3',
+  title: 'G-Switch 3',
+  url: 'https://files.twoplayergames.org/files/games/other/G-Switch_3/index.html',
+  image: 'https://images.twoplayergames.org/files/games/mobile/o1/G_Switch_3_New/G_Switch_3_New.jpg?auto=format&w=100'
+  },
+    {
+  id: 'polytrack',
+  title: 'Poly Track',
+  url: 'https://app-polytrack.kodub.com/0.5.0/?',
+  image: 'https://images.twoplayergames.org/files/games/other/poly-track.jpg?auto=format&w=100'
+  },
+    {
+  id: 'henrystickmanescapingtheprision',
+  title: 'Henry Stickman, Escaping the Prision',
+  url: 'https://app-polytrack.kodub.com/0.5.0/?',
+  image: 'https://www.twoplayergames.org/gameframe/escaping-the-prison'
+  },
+   {
+  id: 'destorythestickman',
+  title: 'Destroy the Stickman',
+  url: 'https://html5.gamedistribution.com/80708ae6cba34925a2f8d18a665fcf8c/?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fdestroy-the-stickman',
+  image: 'https://images.twoplayergames.org/files/games/other/destroy-the-stickman.jpg?auto=format&w=100'
+  },
+   {
+  id: 'neonrider',
+  title: 'Neon Rider',
+  url: 'https://html5.gamedistribution.com/3c48eb1a56064a83b3c2ca0acbe01bb2/?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fneon-rider',
+  image: 'https://images.twoplayergames.org/files/games/other/neon-rider.jpg?auto=format&w=100'
+  },
+   {
+  id: 'flipthebottle',
+  title: 'Flip the Bottle',
+  url: '//html5.gamedistribution.com/rvvASMiM/95c4932d8f6d42688b0fa38274282a86/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fflip-bottle&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50d29wbGF5ZXJnYW1lcy5vcmcvZ2FtZS9mbGlwLWJvdHRsZSIsInBhcmVudERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsInRvcERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D',
+  image: 'https://images.twoplayergames.org/files/games/other/Flip_Bottle.jpg?auto=format&w=100'
   },
 ]
 games.sort(function (a, b) {
