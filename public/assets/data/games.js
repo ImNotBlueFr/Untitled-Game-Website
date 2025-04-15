@@ -118,10 +118,28 @@ var games = [
   image: 'https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO=w240-h480-rw'
   },
       {
-  id: 'pacman',
-  title: 'Pac-Man',
-  url: 'https://www.retrogames.cc/embed/9406-pac-man-midway-1.html',
-  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBsd5KR0IgKULgvVX5TruqpG_gZjT2SLPGg&s'
+  id: 'utilateadoll2',
+  title: 'Mutilate a Doll 2',
+  url: 'https://notagaemsite.github.io/games/mad2.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/mad2.png'
+  },
+  {
+  id: 'asmallworldcup',
+  title: 'A Small World Cup',
+  url: 'https://notagaemsite.github.io/games/asmallworldcup.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/asmallworldcup.png'
+  },
+    {
+  id: 'minecraftclassic',
+  title: 'Minecraft Classic',
+  url: 'https://notagaemsite.github.io/games/classicminecraft.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/classicminecraft.png'
+  },
+    {
+  id: 'driftboss',
+  title: 'Drift Boss',
+  url: 'https://notagaemsite.github.io/games/driftboss.html',
+  image: 'https://notagaemsite.github.io/images/gameicons/driftboss.png'
   },
 ]
 games.sort(function (a, b) {
