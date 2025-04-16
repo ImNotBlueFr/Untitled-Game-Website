@@ -47,6 +47,24 @@ var apps = [
       'url': 'https://www.xbox.com/en-us/play',
       'image': 'https://cdn-1.webcatalog.io/catalog/xbox-cloud-gaming/xbox-cloud-gaming-icon-filled-256.png?v=1714776527567'
     },
+     {
+      'id': 'facebook',
+      'title': 'FaceBook',
+      'url': 'https:///www.facebook.com',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLcBrDHgOj0B_qrNTygXlcjOPlRfGOBqZrw&s'
+    },
+    {
+      'id': 'instagram',
+      'title': 'Instagram',
+      'url': 'https:///https://www.instagram.com',
+      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png'
+    },
+     {
+      'id': 'chatgpt',
+      'title': 'ChatGPT',
+      'url': 'https://chatgpt.com',
+      'image': 'https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg'
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
