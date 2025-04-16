@@ -255,6 +255,12 @@ var games = [
   url: 'https://games.engineering.com/temple-run-2/index.html',
   image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/b5c8b617f65be7cc4d56dd3657590ae7.png'
   },
+  {
+  id: 'tetris',
+  title: 'Tetris',
+  url: 'https://notagaemsite.github.io/games/tetris.html',
+  image: 'https://upload.wikimedia.org/wikipedia/en/7/7d/Tetris_NES_cover_art.jpg'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
