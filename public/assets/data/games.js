@@ -240,7 +240,7 @@ var games = [
     {
   id: 'lebronclicker2025',
   title: 'LEBRON CLICKER 2025',
-  url: 'https://v0-new-project-bwtghxfapfz-31n6vhrd9-lukepenkoskis-projects.vercel.app',
+  url: 'https://lebronclicker.vercel.app',
   image: 'https://tse1.mm.bing.net/th?id=OIP.6PsDllFnMAItPVRiSKYmBgHaFY&pid=Api&P=0&h=220'
   },
     {
