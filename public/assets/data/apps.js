@@ -40,7 +40,13 @@ var apps = [
       'title': 'Cool Math Games',
       'url': 'https://coolmathgames.com',
       'image': 'https://docs.google.com/drawings/d/e/2PACX-1vR6y2GvcGu9PdrX9zzE24dhm24hClcNsdAmZjIgSUC8sFOahf6t7Yg6l_W8Rd4GduWOH_X02GHVFdBb/pub?w=512&h=512'
-    }
+    },
+    {
+      'id': 'xboxcloudgaming',
+      'title': 'Xbox Cloud Gaming',
+      'url': 'https://www.xbox.com/en-us/play',
+      'image': 'https://cdn-1.webcatalog.io/catalog/xbox-cloud-gaming/xbox-cloud-gaming-icon-filled-256.png?v=1714776527567'
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
