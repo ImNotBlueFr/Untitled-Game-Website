@@ -238,9 +238,9 @@ var games = [
   image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/9b739087f9938fb143a2519252addbb8.png'
   },
     {
-  id: 'lebronsimulator2024',
-  title: 'LEBRON SIMULATOR 2024!!!!!!!',
-  url: 'https://games.construct.net/61549/latest',
+  id: 'lebronclicker2025',
+  title: 'LEBRON CLICKER 2025',
+  url: 'https://v0-new-project-bwtghxfapfz-31n6vhrd9-lukepenkoskis-projects.vercel.app',
   image: 'https://tse1.mm.bing.net/th?id=OIP.6PsDllFnMAItPVRiSKYmBgHaFY&pid=Api&P=0&h=220'
   },
     {
