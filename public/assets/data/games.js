@@ -261,6 +261,24 @@ var games = [
   url: 'https://notagaemsite.github.io/games/tetris.html',
   image: 'https://upload.wikimedia.org/wikipedia/en/7/7d/Tetris_NES_cover_art.jpg'
   },
+  {
+  id: 'crazycattle3d',
+  title: 'Crazy Cattle 3D',
+  url: 'https://crazycattle3d.io/game/crazycattle3d/v8/',
+  image: 'https://crazycattle3dgithub.io/data/image/crazy-cattle-3d-online.png'
+  },
+  {
+  id: 'basketballstars',
+  title: 'Basketball Stars',
+  url: 'https://basketball-stars.io/game/basketball-stars/',
+  image: 'https://basketball-stars.io/upload/cache/upload/imgs/basketball-stars1-m240x240.jpg'
+  },
+  {
+  id: 'facedance',
+  title: 'Face Dance',
+  url: 'https://face.dance/create',
+  image: 'https://m.media-amazon.com/images/I/415Se5p6a1L.png'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
