@@ -264,7 +264,7 @@ var games = [
   {
   id: 'crazycattle3d',
   title: 'Crazy Cattle 3D',
-  url: 'https://crazycattle3d.io/game/crazycattle3d/v8/',
+  url: 'https://pokerogue.io/game/crazycattle3d/',
   image: 'https://crazycattle3dgithub.io/data/image/crazy-cattle-3d-online.png'
   },
   {
