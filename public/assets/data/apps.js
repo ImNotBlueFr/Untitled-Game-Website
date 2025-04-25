@@ -65,6 +65,12 @@ var apps = [
       'url': 'https://chatgpt.com',
       'image': 'https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg'
     },
+    {
+      'id': 'blackfart',
+      'title': 'A certian person fart',
+      'url': 'https://niggafart.com',
+      'image': 'https://www.shutterstock.com/shutterstock/videos/1099046921/thumb/1.jpg?ip=x480'
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
