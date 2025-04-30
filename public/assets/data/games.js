@@ -238,10 +238,10 @@ var games = [
   image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/9b739087f9938fb143a2519252addbb8.png'
   },
     {
-  id: 'lebronclicker2025',
-  title: 'LEBRON CLICKER 2025',
-  url: 'https://v0-new-project-bwtghxfapfz-btmbxn.vercel.app',
-  image: 'https://tse1.mm.bing.net/th?id=OIP.6PsDllFnMAItPVRiSKYmBgHaFY&pid=Api&P=0&h=220'
+  id: 'lavachickenclicker',
+  title: 'Lava Chicken Clicker',
+  url: 'https://lavachickenclicker.vercel.app',
+  image: 'https://i1.sndcdn.com/artworks-aYGZyoquE3xBUnyR-CB7pvQ-t500x500.jpg'
   },
     {
   id: 'bigflappytowertinysquare',
@@ -296,6 +296,18 @@ var games = [
   title: 'Burger and Frights',
   url: 'https://html-classic.itch.zone/html/5033568/index.html?v=1732313734',
   image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3pg-wb_ruBw1tQ5aKzncDJVM2tMKzJ5CWg&s'
+  },
+  {
+  id: '!!!!emulators',
+  title: 'Emulated Games',
+  url: 'https://html-classic.itch.zone/html/5033568/index.html?v=1732313734',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3pg-wb_ruBw1tQ5aKzncDJVM2tMKzJ5CWg&s'
+  },
+  {
+  id: 'bitlife',
+  title: 'Bitlife',
+  url: 'https://lifesimulator.online/1.embed',
+  image: 'https://lifesimulator.online/upload/imgs/options/bitlife-2.png'
   },
 ]
 games.sort(function (a, b) {
