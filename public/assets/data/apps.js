@@ -83,6 +83,12 @@ var apps = [
       'url': 'character.ai',
       'image': 'https://media.licdn.com/dms/image/v2/C560BAQFnYb3w5mQMKQ/company-logo_200_200/company-logo_200_200/0/1679554051094/character_ai_logo?e=2147483647&v=beta&t=CrD2N3TToQOyeAI6JSoHIqeA1NlgVA22iIWMTmQcdWc'
     },
+    {
+      'id': 'rocketleague',
+      'title': 'Rocket League Website',
+      'url': 'https://www.rocketleague.com/en',
+      'image': 'https://cdn2.iconfinder.com/data/icons/popular-games-1/50/rocketleague_squircle-512.png'
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
