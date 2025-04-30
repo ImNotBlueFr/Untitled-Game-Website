@@ -264,7 +264,7 @@ var games = [
   {
   id: 'crazycattle3d',
   title: 'Crazy Cattle 3D',
-  url: 'https://crazy-cattle3d.org/game/crazycattle3d/v11/',
+  url: 'https://play.sprunkiretake.net/crazy-cattle-3d/',
   image: 'https://crazycattle3dgithub.io/data/image/crazy-cattle-3d-online.png'
   },
   {
