@@ -264,7 +264,7 @@ var games = [
   {
   id: 'crazycattle3d',
   title: 'Crazy Cattle 3D',
-  url: 'https://pokerogue.io/game/crazycattle3d/',
+  url: 'https://crazycattle3d.io/game/crazycattle3d/v11/',
   image: 'https://crazycattle3dgithub.io/data/image/crazy-cattle-3d-online.png'
   },
   {
@@ -288,7 +288,7 @@ var games = [
   {
   id: 'gunspin',
   title: 'Gun Spin',
-  url: 'https://html5.gamedistribution.com/rvvASMiM/917cce8c44c44638a8cdc2a1794b65c8/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fgunspin&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50d29wbGF5ZXJnYW1lcy5vcmcvZ2FtZS9ndW5zcGluIiwicGFyZW50RG9tYWluIjoidHdvcGxheWVyZ2FtZXMub3JnIiwidG9wRG9tYWluIjoidHdvcGxheWVyZ2FtZXMub3JnIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMTcifQ%253D%253D',
+  url: 'https://www.rapidwebapp.com/game/gunspin/index.html',
   image: 'https://images.sftcdn.net/images/t_app-icon-l/p/aba19a8d-08ae-4195-8aba-db90fe915643/347278431/gunspin-917cce8c44c44638a8cdc2a1794b65c8-512x512.jpeg'
   },
   {
@@ -308,6 +308,12 @@ var games = [
   title: 'Bitlife',
   url: 'https://lifesimulator.online/1.embed',
   image: 'https://lifesimulator.online/upload/imgs/options/bitlife-2.png'
+  },
+  {
+  id: 'snowrider',
+  title: 'Snow Rider',
+  url: 'https://itsvijaysingh.github.io/Snow-Rider3D/',
+  image: 'https://web-saystore-backend.sgdn.io/snwrdrw/game_preview_en__qzu7wcp7YDhr'
   },
 ]
 games.sort(function (a, b) {
