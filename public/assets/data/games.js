@@ -279,6 +279,24 @@ var games = [
   url: 'https://face.dance/create',
   image: 'https://m.media-amazon.com/images/I/415Se5p6a1L.png'
   },
+  {
+  id: 'granny',
+  title: 'Grandma',
+  url: 'https://www.miniplay.com/embed/granny',
+  image: 'https://www5.minijuegosgratis.com/v3/games/thumbnails/229316_7_sq.jpg'
+  },
+  {
+  id: 'gunspin',
+  title: 'Gun Spin',
+  url: 'https://html5.gamedistribution.com/rvvASMiM/917cce8c44c44638a8cdc2a1794b65c8/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fgunspin&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50d29wbGF5ZXJnYW1lcy5vcmcvZ2FtZS9ndW5zcGluIiwicGFyZW50RG9tYWluIjoidHdvcGxheWVyZ2FtZXMub3JnIiwidG9wRG9tYWluIjoidHdvcGxheWVyZ2FtZXMub3JnIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMTcifQ%253D%253D',
+  image: 'https://images.sftcdn.net/images/t_app-icon-l/p/aba19a8d-08ae-4195-8aba-db90fe915643/347278431/gunspin-917cce8c44c44638a8cdc2a1794b65c8-512x512.jpeg'
+  },
+  {
+  id: 'burgerandfrights',
+  title: 'Burger and Frights',
+  url: 'https://html-classic.itch.zone/html/5033568/index.html?v=1732313734',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3pg-wb_ruBw1tQ5aKzncDJVM2tMKzJ5CWg&s'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
