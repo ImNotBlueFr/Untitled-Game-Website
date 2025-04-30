@@ -66,16 +66,10 @@ var apps = [
       'image': 'https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg'
     },
     {
-      'id': 'blackfart',
-      'title': 'DO NOT CLICK',
-      'url': 'https://niggafart.com',
-      'image': 'https://www.shutterstock.com/shutterstock/videos/1099046921/thumb/1.jpg?ip=x480'
-    },
-    {
-      'id': 'gauthai',
-      'title': 'Gauth AI',
-      'url': 'https://www.gauthmath.com/?utm_source=google&utm_medium=cpa_home&utm_campaign=22100242799&utm_term=math%20ai&utm_content=728344988825&gad_source=1&gclid=Cj0KCQjw8cHABhC-ARIsAJnY12ydKoJVtk6g3P6t2pHez_E9dad4JYQYtVMjmrK_DLPLMsRz2pJDmrMaApmBEALw_wcB',
-      'image': 'https://play-lh.googleusercontent.com/1CnI8ztueH5zyg2PLN1qEcPaL_j56Y48gEr2OKcD31ce799Qw91_U0QneDLmwYlCo3w'
+      'id': 'snapchat',
+      'title': 'Snapchat',
+      'url': 'https://www.snapchat.com/?utm_source=GoogleSEM&utm_medium=PAIDUA&utm_campaign=Brand_SnapforWeb_US&utm_term=Web_Desktop&utm_content=RSA&gad_source=1&gclid=Cj0KCQjwlMfABhCWARIsADGXdy9qFlCnkSoVoNoYPTYaMAcc3CmjUYEK8M1cG4jst2AsoPA7H3YoHdkaAucrEALw_wcB&original_referrer=www.google.com',
+      'image': 'https://cdn-icons-png.freepik.com/256/15707/15707923.png?semt=ais_hybrid'
     },
     {
       'id': 'gauthai',
