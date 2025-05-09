@@ -89,6 +89,12 @@ var apps = [
       'url': 'https://www.rocketleague.com/en',
       'image': 'https://cdn2.iconfinder.com/data/icons/popular-games-1/50/rocketleague_squircle-512.png'
     },
+    {
+      'id': 'netlfix',
+      'title': 'Netflix',
+      'url': 'netflix.com',
+      'image': ''
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
