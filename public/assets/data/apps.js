@@ -101,6 +101,12 @@ var apps = [
       'url': 'https://www.monkeytype.com',
       'image': 'https://images.sftcdn.net/images/t_app-icon-m/p/8d9031a7-6ae1-43e3-9353-3dbc7ee10bc9/4060554368/monkeytype-enhancer-logo'
     },
+    {
+      'id': 'primevideo',
+      'title': 'Amazon Prime Video',
+      'url': 'https://www.amazon.com/Amazon-Video/b/?&node=2858778011&ref=dvm_MLP_ROWNA_US_1',
+      'image': 'https://store-images.s-microsoft.com/image/apps.37888.14618985536919905.3e754390-a812-43d7-87fc-335159cd867b.f9c3de38-8b93-42bb-a403-0374ccf355cd'
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
