@@ -12,6 +12,84 @@ var games = [
     image: 'https://cdn.discordapp.com/icons/339131488111034389/73f15cd93d96504af9877a53816d110c.png'
   },
   {
+    id: 'leaderstrike',
+    title: 'Leader Strike',
+    url: 'https://soccer-random.github.io/a7/leader-strike/',
+    image: 'https://play-lh.googleusercontent.com/gtGtjcLoQy9c-ofD1CJtIFrBxBgWGeuAe5iXB7kVg-VPkqnNa90Ss-KMLsznhB3i7AEL'
+  },
+  {
+    id: 'grannyvsbaby',
+    title: 'Granny VS Baby',
+    url: 'https://www.miniplay.com/embed/granny-vs-the-baby-in-yellow',
+    image: 'https://www2.minijuegosgratis.com/v3/games/thumbnails/249845_7_sq.jpg'
+  },
+    {
+    id: 'stickduelbattle',
+    title: 'Stick Duel Battle',
+    url: 'https://html5.gamedistribution.com/rvvASMiM/1d7959f081b4453498ee9916b693988c/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fstick-duel-battle&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50d29wbGF5ZXJnYW1lcy5vcmcvZ2FtZS9zdGljay1kdWVsLWJhdHRsZSIsInBhcmVudERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsInRvcERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D',
+    image: 'https://images.twoplayergames.org/files/games/other/Stick_Duel_Battle.jpg?auto=format&w=200'
+  },
+  {
+    id: 'baconmaydie',
+    title: 'Bacon May Die',
+    url: 'https://games.poki.com/458768/5dd2c21a-015f-11ea-ad56-9cb6d0d995f7?tag=pg-cd29862517c4a62612a69f93abe093439d461741&site_id=3&iso_lang=en&country=US&poki_url=https://poki.com/en/g/bacon-may-die&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3,80,96,750,929,1163,1197&special_condition=landing',
+    image: 'https://play-lh.googleusercontent.com/W_dghckKR-MD8Hx5YvCpdx3bYNeqrBdZqnMI02JnP5rVH8VqGaQUzdiMXd2wdJGLeP0'
+  },
+  {
+    id: 'drifthunters',
+    title: 'Drift Hunters',
+    url: 'https://1games.io/game/drift-hunters/',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0uUffgz5UydHAH9UcHsw3XWJKxx2FnpabA&s'
+  },
+  {
+    id: 'smashkarts',
+    title: 'Smash Karts',
+    url: 'https://smashkarts.io',
+    image: 'https://coindar.org/images/upload/54eRjLdquSRsUfzn/image.oOXrs0tjmqjYLjDgvtRc.jpg'
+  },
+  {
+    id: 'baseball9',
+    title: 'Baseball 9',
+    url: 'https://html5.gamedistribution.com/ab8b147412da4c19a1d0ae6ab740682a/',
+    image: 'https://baseball9.io/data/image/options/favicon.png'
+  },
+  {
+    id: 'tanukisunset',
+    title: 'Tanuki Sunset',
+    url: 'https://html-classic.itch.zone/html/1756009/WebGL/index.html?v=1574334742',
+    image: 'https://tinfoil.media/ti/0100EB3011464000/0/0/'
+  },
+  {
+    id: 'funnyshooter2',
+    title: 'Funny Shooter 2',
+    url: 'https://3kh0s.github.io/games/funnyshooter2/',
+    image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=1200,height=1200,fit=cover,f=png/894abba63a6b23fed823f404831f444f.jpeg'
+  },
+  {
+    id: 'footballbros',
+    title: 'Football Bros',
+    url: 'https://footballbros.io',
+    image: 'https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co951q.jpg'
+  },
+  {
+    id: 'territorialio',
+    title: 'Territorial IO',
+    url: 'https://territorial.io',
+    image: 'https://static.wikia.nocookie.net/territorial/images/a/a7/Island.png/revision/latest?cb=20221029033619'
+  },
+  {
+    id: 'minesweeper',
+    title: 'Minesweeper',
+    url: 'https://minesweeperonline.com',
+    image: 'https://www.puzzle-minesweeper.com/art/og/puzzle-minesweeper.png'
+  },
+  {
+    id: 'retrobowl',
+    title: 'Retro Bowl',
+    url: 'https://retrobowlgame.io/embed/retro-bowl',
+    image: 'https://upload.wikimedia.org/wikipedia/en/b/bf/Retro_Bowl_cover.png'
+  },
+  {
     id: 'run3',
     title: 'Run 3',
     url: 'https://coolmathgames.com/0-run-3/play',
