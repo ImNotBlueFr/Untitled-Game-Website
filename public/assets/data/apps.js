@@ -92,8 +92,14 @@ var apps = [
     {
       'id': 'netlfix',
       'title': 'Netflix',
-      'url': 'netflix.com',
-      'image': ''
+      'url': 'https://www.netflix.com',
+      'image': 'https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456'
+    },
+     {
+      'id': 'monkeytype',
+      'title': 'MonkeyType',
+      'url': 'https://www.monkeytype.com',
+      'image': 'https://images.sftcdn.net/images/t_app-icon-m/p/8d9031a7-6ae1-43e3-9353-3dbc7ee10bc9/4060554368/monkeytype-enhancer-logo'
     },
   ]
   
