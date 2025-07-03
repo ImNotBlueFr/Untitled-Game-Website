@@ -393,6 +393,18 @@ var games = [
   url: 'https://itsvijaysingh.github.io/Snow-Rider3D/',
   image: 'https://web-saystore-backend.sgdn.io/snwrdrw/game_preview_en__qzu7wcp7YDhr'
   },
+  {
+  id: 'eatingsimulator',
+  title: 'Eating Simulator',
+  url: 'https://lagged.com/games/eating-sim/',
+  image: 'https://dl.memuplay.com/new_market/img/com.kayac.eatingsimulator.sc2.2025-01-21-20-47-48.jpg'
+  },
+  {
+  id: 'movepeople',
+  title: 'Move People',
+  url: 'https://lagged.com/games/play2/movepeople900/',
+  image: 'https://play-lh.googleusercontent.com/uIkyCgpMzZ2sJQ4kqBSaLszcbmTpK1DYruTUG1NOUmIdvPJR36xT3rMgkwzymj5sB98'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
