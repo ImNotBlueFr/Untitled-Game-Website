@@ -405,6 +405,24 @@ var games = [
   url: 'https://lagged.com/games/play2/movepeople900/',
   image: 'https://play-lh.googleusercontent.com/uIkyCgpMzZ2sJQ4kqBSaLszcbmTpK1DYruTUG1NOUmIdvPJR36xT3rMgkwzymj5sB98'
   },
+  {
+  id: 'twerkrace3d',
+  title: 'Twerk Race 3D',
+  url: 'https://lagged.com/games/play2/movepeople900/',
+  image: 'https://imgs.search.brave.com/c0mmMV7NQ7EnJfifsQo9dGRwWnro1iZSqDF2uOGQRXw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucGxheWhvcC5j/b20vaW1hZ2VzLzBm/ZmE2XzEzMDEyMDU2/XzBjZjIzL2JlY2Zh/MWFiNi8yYTAwMDAw/MTkyYzMzM2Q5XzYy/MGY5ZGEvZTM0OGI2/ODA5NTBhZjFkZWNj/NDNfOTdhNDY2L3Bq/cGcxNjB4MTYw'
+  },
+  {
+  id: 'badparenting',
+  title: 'Bad Parenting',
+  url: 'https://rawcdn.githack.com/genizy/google-class/98d73056bfa9d476eb9fb3df8eaf418fba6d6f01/bad-parenting/',
+  image: 'https://imgs.search.brave.com/jpB2VLbvpzT9NHOMcvOD8vcm6Td2Rjuejkz2erWD4TI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q1LzEx/L2IxL2Q1MTFiMWZl/MDM3MDZhZThmMzQy/NjE4YjljN2Q3M2I2/LmpwZw'
+  },
+  {
+  id: 'deltarune',
+  title: 'Deltarune',
+  url: 'https://sites.google.com/view/deltaruneforlebronjamesgames/home',
+  image: 'https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1671210/f76969de63cf2f4eb11bc4a1c17e67beb590a9c5.jpg'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
