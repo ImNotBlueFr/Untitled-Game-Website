@@ -420,7 +420,7 @@ var games = [
   {
   id: 'deltarune',
   title: 'Deltarune',
-  url: 'https://sites.google.com/view/deltaruneforlebronjamesgames/home',
+  url: 'https://imnotbluefr.github.io/deltarune-for-lebron/',
   image: 'https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1671210/f76969de63cf2f4eb11bc4a1c17e67beb590a9c5.jpg'
   },
 ]
