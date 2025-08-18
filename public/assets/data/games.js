@@ -420,8 +420,38 @@ var games = [
   {
   id: 'deltarune',
   title: 'Deltarune',
-  url: 'https://imnotbluefr.github.io/deltarune-for-lebron/',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam1',
   image: 'https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1671210/f76969de63cf2f4eb11bc4a1c17e67beb590a9c5.jpg'
+  },
+  {
+  id: 'attackhole',
+  title: 'Attack Hole',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam2',
+  image: 'https://imgs.search.brave.com/uOSIivF7IHV7QNe0LYMiR5Bspdp9jMllIO_cWvAXHHA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/Mi5kYWIzZ2FtZXMu/Y29tL2hvbGUtYXR0/YWNrLWdhbWUyODUu/cG5n'
+  },
+  {
+  id: 'johnnytrigger',
+  title: 'Johnny Trigger',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam3',
+  image: 'https://imgs.search.brave.com/fR6GBxcJf0nDupA6Hjo_4OT_piuLDg5UuVoFC0sjxzQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzExLzMwMTIv/NzM3NDE4MjliYjgx/ZWVjM2NjZjg3YmI3/NThiNjk5NGY2OWI2/NGEyMzM1NjdjYzJm/LnBuZw'
+  },
+  {
+  id: 'linerider',
+  title: 'Line Rider',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam4',
+  image: 'https://imgs.search.brave.com/fA22Gv3xe3BBSKQSSPNyddHV3yibUFmmJpO-zhXGqrM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYWNl/c3Vydml2YWx1bmJs/b2NrZWQuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA0/L2xpbmUtcmlkZXIt/MjQweDI0MC5wbmc'
+  },
+  {
+  id: 'worldshardestgame',
+  title: 'Worlds Hardest Game',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam5',
+  image: 'https://imgs.search.brave.com/qdGWaOVRwvLw_aYVMAChRnwy3aMi_2vvRyJuNfimjlI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29vbG1hdGhnYW1l/cy5jb20vc2l0ZXMv/ZGVmYXVsdC9maWxl/cy9zdHlsZXMvYXBw/X2ljb24vcHVibGlj/L1dvcmxkJ3MlMjBI/YXJkZXN0JTIwR2Ft/ZSUyMFNxdWFyZSUy/MEljb24ucG5nP2l0/b2s9NHRIYkhtdm4'
+  },
+  {
+  id: 'clothingshopsimulator',
+  title: 'Clothing Shop Simulator',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam6',
+  image: 'https://imgs.search.brave.com/krvlLA9aaRADycuHPV8jb9bXnyG69yiaafLfRcz8k9U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2RuLm5l/dC9pbWFnZXMvdF9h/cHAtaWNvbi1tL3Av/YzFjZDA1ZDctOTE3/NC00YmFlLWE0N2Mt/NzUyMGM0OWYzNzBk/LzE1ODU1NDU3NS9j/bG90aGluZy1zdG9y/ZS1zaW11bGF0b3It/a2lraS1nYW1lcy1k/b3dubG9hZC1jbG90/aGluZy1zdG9yZS1z/aW11bGF0b3Ita2lr/aS1nYW1lcy5wbmc'
   },
 ]
 games.sort(function (a, b) {
