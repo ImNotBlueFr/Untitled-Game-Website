@@ -453,6 +453,84 @@ var games = [
   url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam6',
   image: 'https://imgs.search.brave.com/krvlLA9aaRADycuHPV8jb9bXnyG69yiaafLfRcz8k9U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2RuLm5l/dC9pbWFnZXMvdF9h/cHAtaWNvbi1tL3Av/YzFjZDA1ZDctOTE3/NC00YmFlLWE0N2Mt/NzUyMGM0OWYzNzBk/LzE1ODU1NDU3NS9j/bG90aGluZy1zdG9y/ZS1zaW11bGF0b3It/a2lraS1nYW1lcy1k/b3dubG9hZC1jbG90/aGluZy1zdG9yZS1z/aW11bGF0b3Ita2lr/aS1nYW1lcy5wbmc'
   },
+  {
+  id: 'buckshotroulette',
+  title: 'Buckshot Roulette',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam7',
+  image: 'https://imgs.search.brave.com/IviCdBJPXSbvu2esMF0ydsXad2S-YgoR5G0h7lL3bgY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtcHJkLmlnbmlt/Z3MuY29tLzIwMjQv/MDIvMjAvYnVja3No/b3Qtcm91bGV0dGUt/YnV0dG9uLTE3MDg0/NDkzNjY2ODIuanBn/P2Nyb3A9MToxLHNt/YXJ0JmZvcm1hdD1q/cGcmYXV0bz13ZWJw/JnF1YWxpdHk9ODA'
+  },
+  {
+  id: 'minecraft',
+  title: 'Minecraft',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam8',
+  image: 'https://imgs.search.brave.com/-287umXlR6B6sDfw8L4roXFzWDRvgnTRtJggLu0gqzw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE3MTAxZTdj/OTZkOGQ0MWY0NmI3/MGY0Y2ZmM2I2MTll/OGM5OGQxN2IyNTQ0/MzY1OTY4NjFlOTU2/YjlhM2I3OC93d3cu/bWluZWNyYWZ0Lm5l/dC8'
+  },
+  {
+  id: 'aquaparkio',
+  title: 'Aquapark.io',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam9',
+  image: 'https://imgs.search.brave.com/42jlCXJYSKGr91QLmL0R3qLMUeA2eBEsaJEQ2WRU7to/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMua2V5Z2FtZXMu/Y29tLzAvMTEzOTMw/Lzk3ODA1LzY3Mngz/NzgvYXF1YXBhcmtp/by53ZWJw'
+  },
+  {
+  id: 'bloxorz',
+  title: 'Bloxorz',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam10',
+  image: 'https://imgs.search.brave.com/FOJhvZngZgjJ48RErowPrg4IQakGby_4hEcXyfbWxLs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91bmJs/b2NrZWQtZ2FtZXMu/czMuYW1hem9uYXdz/LmNvbS9tZWRpYS9w/b3N0cy80NzQvYmxv/eG9yei1nYW1lLmpw/Zw'
+  },
+  {
+  id: 'endoparasitic',
+  title: 'Endoparasitic',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam11',
+  image: 'https://imgs.search.brave.com/BzGSvU9IXPnvix595U_4zyTcnOWxNch1fQnXCjWMRiI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YXByb3h5LnR2dHJv/cGVzLm9yZy93aWR0/aC8xMjAwL2h0dHBz/Oi8vc3RhdGljLnR2/dHJvcGVzLm9yZy9w/bXdpa2kvcHViL2lt/YWdlcy9lbmRvcGFy/YXNpdGljX3ZlcnRp/Y2FsLnBuZw'
+  },
+  {
+  id: 'bombdroppingsimulator',
+  title: 'Bomb Dropping Simulator',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam12',
+  image: 'https://imgs.search.brave.com/6fgOTpzOngAzI1qjgvtO2mcY7mHxi4On9DHpRxa7IZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTY1/NzQ4MTI3L3ZlY3Rv/ci9wbGFuZS1kcm9w/cGluZy1ib21icy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/OGROWmhUYmFOanB5/dmZacWMxWmlrLUVt/TG9yN0VYZmVYUnky/MVBvWm5LND0'
+  },
+  {
+  id: 'gunbuilder',
+  title: 'Gun Builder',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam13',
+  image: 'https://imgs.search.brave.com/jkV8JmodxeP9SP3mxmwSeIuM-ZUv-tTBhaTBtns8-jM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nYW1l/Zm9yZ2UuY29tL2Rl/LURFL2xpdHRsZWdh/bWVzL2luY2x1ZGVz/L2ltYWdlcy9nYW1l/cy8xMjcwN181ZWIz/ZjliNWJlNWY4Lmpw/Zw'
+  },
+  {
+  id: 'halflife',
+  title: 'Half Life',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam14',
+  image: 'https://imgs.search.brave.com/cIzZesRy4pCpmUhQum4_RViHpw1kxpxTrVigc_KmNUw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtcHJkLmlnbmlt/Z3MuY29tLzIwMjEv/MTIvMDcvaGFsZi1s/aWZlLWlnbi0xNjM4/OTA3MDQxMTcwLmpw/Zz9jcm9wPTE6MSxz/bWFydCZmb3JtYXQ9/anBnJmF1dG89d2Vi/cCZxdWFsaXR5PTgw'
+  },
+  {
+  id: 'papaspizzeria',
+  title: 'Papas Pizzeria',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam15',
+  image: 'https://imgs.search.brave.com/hm2MMt-5GHcDBxfCwmzIoKSDjJ30bXdpK2LT1w1NzSo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/cG9raS1jZG4uY29t/L2Nkbi1jZ2kvaW1h/Z2UvcT03OCxzY3E9/NTAsd2lkdGg9MjA0/LGhlaWdodD0yMDQs/Zml0PWNvdmVyLGY9/YXV0by8zNzdmZDdk/OTdjMmIyZjRmZTI1/NjE4Y2NmZmNjNjAx/Yi9wYXBhcy1waXp6/ZXJpYS5qZmlm'
+  },
+  {
+  id: 'parkingfury3d',
+  title: 'Parking Fury 3D',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam16',
+  image: 'https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/parking-fury-3d-main/parking-fury-3d-main/thumbnail.jpg'
+  },
+  {
+  id: 'richrun3d',
+  title: 'Rich Run 3D',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam17',
+  image: 'https://imgs.search.brave.com/P0u3etGg98ZlqqXgD809_5vJNKF1zLA3usvRPKAGMh0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/eWl2LmNvbS9jZG4t/Y2dpL2ltYWdlL3F1/YWxpdHk9NzgsZm9y/bWF0PWF1dG8vdGh1/bWIvUnVuLVJpY2gt/M2QuanBn'
+  },
+  {
+  id: 'gunrun3d',
+  title: 'Gun Run 3D',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam18',
+  image: 'https://imgs.search.brave.com/Y7gIKb9U5abT0L887-UronevA5hJQQg9l8WW7uDWkTE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dG9wZ2FtZXMuY29t/L2Nkbi1jZ2kvaW1h/Z2UvcXVhbGl0eT03/OCxmb3JtYXQ9YXV0/by90aHVtYi9nYW1l/cy9XZWFwb24tTWFz/dGVyLUd1bi1TaG9v/dGVyLVJ1bi5qcGc'
+  },
+  {
+  id: 'speedstars',
+  title: 'Speed Stars',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam19',
+  image: 'https://imgs.search.brave.com/BCiQvdD92O1faxb3mnTJl8cW-wXPzDTIAXmpDATl_3g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aW55/cGxheS5pby9kYXRh/L2ltYWdlL3NwZWVk/LXN0YXJzMi5wbmc'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
