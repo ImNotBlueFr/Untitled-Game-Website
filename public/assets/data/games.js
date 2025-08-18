@@ -75,7 +75,7 @@ var games = [
     id: 'territorialio',
     title: 'Territorial IO',
     url: 'https://territorial.io',
-    image: 'https://static.wikia.nocookie.net/territorial/images/a/a7/Island.png/revision/latest?cb=20221029033619'
+    image: 'https://imgs.search.brave.com/lKrL4UT693IQpAwsGEbXrgyQZRMCeu-hU05Im2zXJeA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZ2FtaW5n/b25waG9uZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDMvcmVhbC1wbGF5/ZXJzLXRlcnJpdG9y/aWFsLmlvXy03OTN4/MTAyNC5qcGc'
   },
   {
     id: 'minesweeper',
