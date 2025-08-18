@@ -408,7 +408,7 @@ var games = [
   {
   id: 'twerkrace3d',
   title: 'Twerk Race 3D',
-  url: 'https://lagged.com/games/play2/movepeople900/',
+  url: 'https://rawcdn.githack.com/genizy/brainrot/main/twerk-race-3d/index.html',
   image: 'https://imgs.search.brave.com/c0mmMV7NQ7EnJfifsQo9dGRwWnro1iZSqDF2uOGQRXw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucGxheWhvcC5j/b20vaW1hZ2VzLzBm/ZmE2XzEzMDEyMDU2/XzBjZjIzL2JlY2Zh/MWFiNi8yYTAwMDAw/MTkyYzMzM2Q5XzYy/MGY5ZGEvZTM0OGI2/ODA5NTBhZjFkZWNj/NDNfOTdhNDY2L3Bq/cGcxNjB4MTYw'
   },
   {
