@@ -531,6 +531,12 @@ var games = [
   url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam19',
   image: 'https://imgs.search.brave.com/BCiQvdD92O1faxb3mnTJl8cW-wXPzDTIAXmpDATl_3g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aW55/cGxheS5pby9kYXRh/L2ltYWdlL3NwZWVk/LXN0YXJzMi5wbmc'
   },
+  {
+  id: 'webecomewhatwebehold',
+  title: 'We Become What We Behold',
+  url: 'https://html-classic.itch.zone/html/300364/index.html?v=1542781840',
+  image: 'https://imgs.search.brave.com/G9RjrxI_44jbCeFGzaJkzUaU1MzqYW1F0Gh3RGwdQZw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9rYmhn/YW1lcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTYvMTAv/V2UtQmVjb21lLVdo/YXQtV2UtQmVob2xk/LmpwZw'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
