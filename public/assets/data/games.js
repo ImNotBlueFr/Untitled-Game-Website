@@ -549,6 +549,66 @@ var games = [
   url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam21',
   image: 'https://imgs.search.brave.com/X5EiwYUGDSlzHAhIIlHOLTjoi2fF_OoMqXNOnOD3mbw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mLzhl/ZjFhZjYzLTUzODct/NDE0OS05ZmM3LTkx/YWYwMTRmNzU0MS9k/ZndmMWJyLTNjYmRm/YmQ4LTY1YmQtNGE1/Ni1iNGQxLTZjMjZi/NzEzM2Y4Yy5wbmc_/dG9rZW49ZXlKMGVY/QWlPaUpLVjFRaUxD/SmhiR2NpT2lKSVV6/STFOaUo5LmV5Snpk/V0lpT2lKMWNtNDZZ/WEJ3T2pkbE1HUXhP/RGc1T0RJeU5qUXpO/ek5oTldZd1pEUXhO/V1ZoTUdReU5tVXdJ/aXdpYVhOeklqb2lk/WEp1T21Gd2NEbzNa/VEJrTVRnNE9UZ3lN/alkwTXpjellUVm1N/R1EwTVRWbFlUQmtN/alpsTUNJc0ltOWlh/aUk2VzF0N0luQmhk/R2dpT2lKY0wyWmNM/emhsWmpGaFpqWXpM/VFV6T0RjdE5ERTBP/UzA1Wm1NM0xUa3hZ/V1l3TVRSbU56VTBN/Vnd2WkdaM1pqRmlj/aTB6WTJKa1ptSmtP/QzAyTldKa0xUUmhO/VFl0WWpSa01TMDJZ/ekkyWWpjeE16Tm1P/R011Y0c1bkluMWRY/U3dpWVhWa0lqcGJJ/blZ5YmpwelpYSjJh/V05sT21acGJHVXVa/RzkzYm14dllXUWlY/WDAuaVZ3dk9TMmt4/LXBudVhPR0JTaEc4/SXM1Mnp4QkRXSWZ1/aEtNckxzN0JjNA'
   },
+  {
+  id: 'bartbash',
+  title: 'Bart Bash',
+  url: 'https://bartbash.com/game/bart.html',
+  image: 'https://imgs.search.brave.com/pNsQUzkh3rBbuOw7Cck2FZtQjKBNt1aTsFPyeVc5u9M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWE3ZWI3NTlh/YWZmYWRmNWU3N2I2/ZGI5NTYxZTJhOTI3/MDFjNWY1NDYzM2Zl/OTY5ODgzZmE0ZGRi/ODlhZDc2NC9iYXJ0/YmFzaC5jb20v'
+  },
+  {
+  id: 'blockblast',
+  title: 'Block Blast',
+  url: 'https://blockblastonline.com/1.embed',
+  image: 'https://imgs.search.brave.com/wpaMONgekLdPChsuKrilZ4dy3R4C9qodvM-P7hzEG2Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zYXku/Z2FtZXMvX25leHQv/aW1hZ2U_dXJsPWh0/dHBzOi8vd2ViLXNh/eXN0b3JlLWJhY2tl/bmQuc2dkbi5pby9i/Ymxsb2F3L2ljb25f/X19PdUJ1TnZxYkRL/SVgmdz0zODQwJnE9/NzU'
+  },
+  {
+  id: 'geometrydash',
+  title: 'Geometry Dash',
+  url: 'https://geometry-dashonline.io/embed/geometry-dash-online',
+  image: 'https://imgs.search.brave.com/CG9zGr5VrVaRlWf8vL8oCzks8jOrwoYkbaKu3I1n-F8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZW9t/ZXRyeWRhc2gyLmNv/bS9jYWNoZS9kYXRh/L2ltYWdlL2dlb21l/dHJ5LWRhc2gtbTE1/MHgxNTAud2VicA'
+  },
+  {
+  id: 'amazingstrangeropepolice',
+  title: 'Amazing Strange Rope Police',
+  url: 'https://games.crazygames.com/en_US/amazing-strange-rope-police-vice-spider/index.html?ssrDevice=desktop&isNewUser=true&skipPrerollFirstSession=true&v=1.338',
+  image: 'https://imgs.search.brave.com/SNp8dcM-pG5_ogTgufbvupS6l7jugpIE-UR34sGjnuQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/YW1hemluZy1zdHJh/bmdlLXJvcGUtcG9s/aWNlLXZpY2Utc3Bp/ZGVyLXZlZ2FzLXYw/LXliN25heHBwamY3/YTEuanBnP3dpZHRo/PTEwODAmZm9ybWF0/PXBqcGcmYXV0bz13/ZWJwJnM9MWQ4MjAz/M2U0ZDVhOTA2ZTM3/NGRhYTc2NjA4NDQz/YTZmNjJjZmIwYw'
+  },
+  {
+  id: 'ragdollarchers',
+  title: 'Ragdoll Archers',
+  url: 'https://games.crazygames.com/en_US/ragdoll-archers/index.html?ssrDevice=desktop&isNewUser=false&skipPrerollFirstSession=true&v=1.338',
+  image: 'https://imgs.search.brave.com/MO5HSAUnX4T_zcOZhw_KBdzpm__xZozxJ6wj1syY-fk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYWdk/b2xsYXJjaGVycy5n/aXRodWIuaW8vdXBs/b2Fkcy8yMDI1LzUv/cmFnZG9sbC1hcmNo/ZXJzLnBuZw'
+  },
+  {
+  id: 'deadshotio',
+  title: 'DEADSHOT.io',
+  url: 'https://scratch.mit.edu/',
+  image: 'https://imgs.search.brave.com/mBcGOJuXLJ5IMKeozxVrFuYMgQ5464-X4HiQxCWlWTw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zbGl0/aGVyZ2FtZS5pby9j/YWNoZS9kYXRhL2lt/YWdlL2dhbWUvc2Ny/ZWVuc2hvdF8xNzE4/Njk5ODc5LW0zMDB4/MzAwLnBuZw'
+  },
+   {
+  id: 'scratch',
+  title: 'Scratch',
+  url: 'https://scratch.mit.edu/',
+  image: 'hhttps://imgs.search.brave.com/lUAGc34H3KHxviyEDhzkzItkjZNDiKWMWB4J1jqLzak/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QxODczYzAz/MDJjZDUyMDdjYjVk/MTYxNTM4OTVhYTk5/OWE4ZWFmZTEyYzE0/ZTljZjU4NDY4MzQ3/ZDFmMjgyZC9zY3Jh/dGNoLm1pdC5lZHUv'
+  },
+  {
+  id: 'r.e.p.o',
+  title: 'R.E.P.O',
+  url: 'https://imnotbluefr.github.io/LebronJamesGamesGames/Gam22',
+  image: 'https://imgs.search.brave.com/YsXRePRgajihLksrhxr6Z7xTZcHcKYRz_aXx2nUISjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJy/NzZ4L3N0eWxlcy9j/b21tdW5pdHlJY29u/X3lhanJ5cDU3Z2dz/ZTEucG5nP3dpZHRo/PTk2JmhlaWdodD05/NiZmcmFtZT0xJmF1/dG89d2VicCZjcm9w/PTk2Ojk2LHNtYXJ0/JnM9NTEwNGY4NDY2/ZjU1ZGZhYjhjODlk/NGNlZWZjNWRkYTJh/MmYwYzk3ZA'
+  },
+  {
+  id: '10minutestilldawn',
+  title: '10 Minutes Till Dawn',
+  url: 'https://games.crazygames.com/en_US/10-minutes-till-dawn/index.html?ssrDevice=desktop&isNewUser=false&v=1.338',
+  image: 'https://imgs.search.brave.com/Q4ILZacqBT0xZvLZp5o8qArgQBK5e25XE5AyBEkW-qc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGF0/c25vdG15bmVpZ2hi/b3Iub3JnL2NhY2hl/L2RhdGEvaW1hZ2Uv/Z2FtZS8xMC1taW51/dGVzLXRpbGwtZGF3/bi1jb3Zlci1tMzAw/eDMwMC5wbmc'
+  },
+  {
+  id: '10minutestilldawn',
+  title: '10 Minutes Till Dawn',
+  url: 'https://games.crazygames.com/en_US/10-minutes-till-dawn/index.html?ssrDevice=desktop&isNewUser=false&v=1.338',
+  image: 'https://imgs.search.brave.com/Q4ILZacqBT0xZvLZp5o8qArgQBK5e25XE5AyBEkW-qc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGF0/c25vdG15bmVpZ2hi/b3Iub3JnL2NhY2hl/L2RhdGEvaW1hZ2Uv/Z2FtZS8xMC1taW51/dGVzLXRpbGwtZGF3/bi1jb3Zlci1tMzAw/eDMwMC5wbmc'
+  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
