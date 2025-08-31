@@ -107,6 +107,48 @@ var apps = [
       'url': 'https://www.amazon.com/Amazon-Video/b/?&node=2858778011&ref=dvm_MLP_ROWNA_US_1',
       'image': 'https://store-images.s-microsoft.com/image/apps.37888.14618985536919905.3e754390-a812-43d7-87fc-335159cd867b.f9c3de38-8b93-42bb-a403-0374ccf355cd'
     },
+    {
+      'id': 'twitch',
+      'title': 'Twitch',
+      'url': 'http://twitch.tv/',
+      'image': 'https://imgs.search.brave.com/K0NQUpWCdhpcS9uuSgNmgVOMgEw7lBijH3Di-vOfXig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMzA0MS9Q/TkcvNTEyL3R3aXRj/aF9sb2dvX2ljb25f/MTg5MjQyLnBuZw'
+    },
+    {
+      'id': 'disneyplus',
+      'title': 'Disney+',
+      'url': 'https://www.disneyplus.com/',
+      'image': 'https://imgs.search.brave.com/OrGQMtwUsS26ogR5aqe3q7yCL5WT6afsacMaUq4toYQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJiL2Zj/L2YxLzJiZmNmMWY1/M2I1ZDZmYzEwOTk4/NTA5MTUyMDExMzY4/LmpwZw'
+    },
+    {
+      'id': 'xboxcloudgaming',
+      'title': 'XBOX Cloud Gaming',
+      'url': 'https://www.xbox.com/en-us/play',
+      'image': 'https://imgs.search.brave.com/35ifVPQCXERSzcKLMWp8teXtLboL26jEaFnMeLVuBcE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ1LzIveGJveC1j/bG91ZC1nYW1pbmct/bG9nby1wbmdfc2Vl/a2xvZ28tNDU3MTcx/LnBuZw'
+    },
+    {
+      'id': 'paramountplus',
+      'title': 'Paramount Plus',
+      'url': 'https://www.paramountplus.com/',
+      'image': 'https://imgs.search.brave.com/WL26R7S7qY137540f7QWk2QhOFy-Hu5BYpcYj5agFjs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJ6/b2s2YS9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl91MXEwbzh4a2hm/NTYxLnBuZw'
+    },
+    {
+      'id': 'lookmovie2',
+      'title': 'LookMovie2',
+      'url': 'https://www.lookmovie2.to/',
+      'image': 'https://www.lookmovie2.to/images/logo1.webp'
+    },
+    {
+      'id': 'newgrounds',
+      'title': 'Newgrounds',
+      'url': 'https://www.newgrounds.com/',
+      'image': 'https://imgs.search.brave.com/wW31X0zcYltVqIELBcpxjo2hWh_Jp_-E-pnre1XQ1io/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWY1NDBhZDJm/NDVkOTRjOGVhMmZm/ZWE0MjgzZTg3YWQ2/YTM0Y2NiZjQ3MzQz/ODNjNmI1ZDlhZjBh/NjEwYWJkZC93d3cu/bmV3Z3JvdW5kcy5j/b20v'
+    },
+    {
+      'id': 'soundcloud',
+      'title': 'Soundcloud',
+      'url': 'https://soundcloud.com/discover',
+      'image': 'https://imgs.search.brave.com/cITFBqfwL8R8KcVrBVnr4mutx1MdwZ3SrxiSlMNye2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA5ZDgyNGJl/NjljY2RjMmFkYWFi/YThkMjA5NjkxNTNh/YzBmMGI0YWIxNGE4/YTVhNjI3N2IwODQ0/ZTEyMDk4Yy9zb3Vu/ZGNsb3VkLmNvbS8'
+    },
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
