@@ -603,12 +603,6 @@ var games = [
   url: 'https://games.crazygames.com/en_US/10-minutes-till-dawn/index.html?ssrDevice=desktop&isNewUser=false&v=1.338',
   image: 'https://imgs.search.brave.com/Q4ILZacqBT0xZvLZp5o8qArgQBK5e25XE5AyBEkW-qc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGF0/c25vdG15bmVpZ2hi/b3Iub3JnL2NhY2hl/L2RhdGEvaW1hZ2Uv/Z2FtZS8xMC1taW51/dGVzLXRpbGwtZGF3/bi1jb3Zlci1tMzAw/eDMwMC5wbmc'
   },
-  {
-  id: '10minutestilldawn',
-  title: '10 Minutes Till Dawn',
-  url: 'https://games.crazygames.com/en_US/10-minutes-till-dawn/index.html?ssrDevice=desktop&isNewUser=false&v=1.338',
-  image: 'https://imgs.search.brave.com/Q4ILZacqBT0xZvLZp5o8qArgQBK5e25XE5AyBEkW-qc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGF0/c25vdG15bmVpZ2hi/b3Iub3JnL2NhY2hl/L2RhdGEvaW1hZ2Uv/Z2FtZS8xMC1taW51/dGVzLXRpbGwtZGF3/bi1jb3Zlci1tMzAw/eDMwMC5wbmc'
-  },
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
